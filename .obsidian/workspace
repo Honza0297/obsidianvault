@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ROS2SWARM - A ROS 2 Package for Swarm Robot Behaviors.md",
+            "file": "~Papery.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROS2SWARM - A ROS 2 Package for Swarm Robot Behaviors.md",
+                "file": "~Papery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROS2SWARM - A ROS 2 Package for Swarm Robot Behaviors.md",
+                "file": "~Papery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROS2SWARM - A ROS 2 Package for Swarm Robot Behaviors.md"
+                "file": "~Papery.md"
               }
             }
           }
@@ -131,8 +131,13 @@
   "active": "78a74aa207c525c8",
   "lastOpenFiles": [
     "~TOREAD.md",
+    "The Best-of-n Problem in Robot Swarms.pdf",
+    "Collective decision with 100 Kilobots.pdf",
     "ROS2SWARM - A ROS 2 Package for Swarm Robot Behaviors.md",
+    "Co je důležité pro swarm roboty.md",
+    "Trilobot.md",
     "Tanja Katharina Kaiser.md",
+    "ROS2.md",
     "Odkaz.md",
     "~Papery.md"
   ]

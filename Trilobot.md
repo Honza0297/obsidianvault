@@ -1,0 +1,1 @@
+Můj milý malý robůtek.
