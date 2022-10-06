@@ -10,6 +10,8 @@
           "type": "pdf",
           "state": {
             "file": "2021-self.pdf"
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -133,6 +135,14 @@
     "ROS2SWARM - A ROS 2 Package for Swarm Robot Behaviors.md",
     "Tanja Katharina Kaiser.md",
     "Odkaz.md",
-    "~Papery.md"
+    "~Papery.md",
+    "Trilobot.md",
+    "The Best-of-n Problem in Robot Swarms.pdf",
+    "Collective decision with 100 Kilobots.pdf",
+    "Tanja Katharina Kaiser.md",
+    "Co je důležité pro swarm roboty.md",
+    "ROS2SWARM - A ROS 2 Package for Swarm Robot Behaviors.md",
+    "ROS2.md",
+    "Odkaz.md"
   ]
 }
