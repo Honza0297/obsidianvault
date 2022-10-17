@@ -4,7 +4,7 @@ Napsala [[Tanja Katharina Kaiser]]
 
 * Balíček do [[ROS2]] pro swarm roboty.
 * Základní myšlenka:  každý robot má nějaká základní chování - patterns. Dva typy: movement pro pohyb a voting pro komunikaci. 
-* Jel by i na [[Trilobot]]ovi - stačilo by upravit konfigurák
+* Jel by i na [[Trilobot]]ovi - stačilo by upravit konfigurák a samozřejmě předělat na ROS2
 * 
 
 Zdroje:
