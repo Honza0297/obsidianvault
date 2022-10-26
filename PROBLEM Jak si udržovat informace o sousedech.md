@@ -1,0 +1,3 @@
+Existují různé game theory a reputační modely pro výměnu informací, přejímání názorů a případnou odolnost vůči Byzantským jedincům, [[Selfish Nodes]] atp. Otázka ale zní: Jak si udržovat všechny ifnormace ve formě, která umoží si držet informace o až tisících sousedech a zároveň nebude zabírat všechnu MEM? 
+
+Podobný problém jsem řešil i v té povídce z konce času, kdy lidi na vesmírných lodích musí rozhodovat, které informace smazat a které si nechat kvůli omezené kapacitě MEM. 

@@ -8,51 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f1a93eddb5a3b5d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Authors/Yasemin Ozkan-Aydin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0865ab229ff644ec",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ab003e0e79afda12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Regional Necessity Based Multi-agent Target Search Strategy forPost-earthquake Rescue.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b60fa08ea425409e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Swarm of micro flying robots in the wild.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d64958425581aa5",
+            "id": "2c83d63013fad9c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,63 +20,55 @@
             }
           },
           {
-            "id": "2b4c24a90e5a9bc0",
+            "id": "0c63e68c7e9c9bb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Selfish Nodes.md",
+                "file": "Evolution of Self-Organized Task Specialization in Robot Swarms.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b335593becb25dba",
+            "id": "f71e3f4423c5061e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAPC.md",
+                "file": "PROBLEM Jak si udržovat informace o sousedech.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "709efc1ccb9a8f08",
+            "id": "c99a1d6d0168c1c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Swarmanoid.md",
+                "file": "social insects.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b18800d37a76f7e0",
+            "id": "2610aeef6c27f95a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stigmergy.md",
+                "file": "IDEA Komunikace ve swarmech.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "12d3bb94fec17247",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Swarm Robotics; Past, present and future.md",
+                "file": "Evolution of Self-Organized Task Specialization in Robot Swarms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Swarm Robotics; Past, present and future.md",
+                "file": "Evolution of Self-Organized Task Specialization in Robot Swarms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Swarm Robotics; Past, present and future.md"
+                "file": "Evolution of Self-Organized Task Specialization in Robot Swarms.md"
               }
             }
           }
@@ -240,17 +188,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "3d64958425581aa5",
+  "active": "0c63e68c7e9c9bb1",
   "lastOpenFiles": [
-    "Selfish Nodes.md",
     "Swarm Robotics; Past, present and future.md",
-    "blockchain.md",
-    "Swarm of micro flying robots in the wild.md",
-    "ALLL.md",
-    "Swarmanoid.md",
-    "MAPC.md",
-    "Swarm-bot.md",
-    "Stigmergy.md",
-    "Paper pdfs/Swarm of micro flying robots in the wild.pdf"
+    "Evolution of Self-Organized Task Specialization in Robot Swarms.md",
+    "Paper pdfs/Evolution of Self-Organized Task\nSpecialization in Robot Swarms.pdf",
+    "Collective decision with 100 Kilobots.md",
+    "PROBLEM Jak si udržovat informace o sousedech.md",
+    "IDEA Způsoby chování, jeho výměna a diferenciace.md",
+    "social insects.md",
+    "IDEA Komunikace ve swarmech.md",
+    "Paper pdfs/Collective decision with 100 Kilobots.pdf",
+    "Paper pdfs/Collective decision with 100 Kilobots: speed versus\naccuracy in binary discrimination problems.pdf"
   ]
 }

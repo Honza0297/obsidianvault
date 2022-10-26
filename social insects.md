@@ -1,0 +1,1 @@
+Placeholder pro sdružování bioinspired článků
