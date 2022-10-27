@@ -6,7 +6,7 @@ Původně používaná [[Stigmergy]].
 Projekty: [[Swarm-bot]], později [[Swarmanoid]]
 
 
-**Ultimátní cíl swarm robotiky: tooling a [[IDEA; Framework pro swarm robotiku]] pro použití swarmů na real-life problémy. Jinak řečeno, abychom mohli hejno nějak vysokoúrovňově programovat pro konkrétní task**
+**Ultimátní cíl swarm robotiky: tooling a [[IDEA Framework pro swarm robotiku]] pro použití swarmů na real-life problémy. Jinak řečeno, abychom mohli hejno nějak vysokoúrovňově programovat pro konkrétní task**
 
 
 **Lessons learned/tasks to solve:**
