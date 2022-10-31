@@ -4,7 +4,13 @@ velmi nedovařený nápad na chování: roboti jako jednotlivci (asi) ví, co je
 	* nevznikne "vyšší koordinace", nebo to tam aspoň nevidím. Budou pouze krystalizovat třídy (viz výše) ideální pro konkrétního (byť třeba homogenního) elementa (každý má ale za sebou různou historii, tak by teoreticky mohla být i víc než jedna "ideální"), ale nevznikne koordinované chování jako "tahač kostek by měl mít kamaráda ničitele a kamaráda střelce". -> To by ale mohla řešit tvorba koalic!!!
 * * Něco na ten způsob je (asi) tohle: [[Evolution of Self-Organized Task Specialization in Robot Swarms]]
 * Podobně vlastně fungovaly Portie v Dětech času - předávaly si genetické balíčky zkušeností, což jim umožnilo extrémně rychlý rozvoj, i když žily čtvrtinu lidského života.
+a neglected aspect in the consideration of potential effects artificial generala neglected aspect in the consideration of potential effects artificial general
+IDEA: co kdyby jedinci, kteří dlouhodobě "prohrávají" ve výměně chování (jejich chování je dlouhodobě "horší" a oni pořád přejímají nová) měli větší šanci na mutaci? Způsobí to normalizaci, nebo jen feedback loop a bude to horší?
+
+IDEA: Výměna chování by mohla probíhat jen "pravděpodobnostně" - čím je chování lepší oproti mému, tím víc pravděpodobná bude výměna/nahrazení, ale ne nutně 100%
+
 
 Zdroje na jednom místě: 
 * [[An Evolutionary Perspective on Self-Organized Division of Labor in Social Insects]] (ještě nčeteno)
 * [[Evolution of Self-Organized Task Specialization in Robot Swarms]] 
+* [[2018-Information_exchange_design_patterns_for_robot_swarm_foraging_and_their_application_in_robot_control_algorithms.pdf]]

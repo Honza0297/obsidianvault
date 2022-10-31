@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "13dd39a328ca89b6",
+        "id": "7faa831649c7b869",
         "type": "tabs",
         "children": [
           {
-            "id": "4584d1668d802b97",
+            "id": "7245c373f97e00fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Evolution of Self-Organized Task Specialization in Robot Swarms.md",
-                "mode": "source",
-                "source": false
+                "file": "Paper pdfs/The Best-of-n Problem in Robot Swarms.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evolution of Self-Organized Task Specialization in Robot Swarms.md",
+                "file": "Paper pdfs/The Best-of-n Problem in Robot Swarms.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Evolution of Self-Organized Task Specialization in Robot Swarms.md",
+                "file": "Paper pdfs/The Best-of-n Problem in Robot Swarms.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evolution of Self-Organized Task Specialization in Robot Swarms.md"
+                "file": "Paper pdfs/The Best-of-n Problem in Robot Swarms.pdf"
               }
             }
           }
@@ -136,17 +134,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4584d1668d802b97",
+  "active": "7245c373f97e00fe",
   "lastOpenFiles": [
-    "IDEA Způsoby chování, jeho výměna a diferenciace.md",
-    "IDEA Framework pro swarm robotiku.md",
-    "IDEA Komunikace ve swarmech.md",
-    "Evolution of Self-Organized Task Specialization in Robot Swarms.md",
-    "An Evolutionary Perspective on Self-Organized Division of Labor in Social Insects.md",
-    "Swarm Robotics; Past, present and future.md",
-    "IDEA Rychlé přepnutí chování v návaznosti na nečekanou změnu prostředí.md",
-    "Paper pdfs/An_Evolutionary_Perspective_on_SelfOrganized.pdf",
-    "Grammatical Evolution.md",
-    "Paper pdfs/Evolution of Self-Organized Task\nSpecialization in Robot Swarms.pdf"
+    "Paper pdfs/Swarm robotics: Past, Present and Future.pdf",
+    "~TOREAD.md",
+    "Paper pdfs/Swarm of micro flying robots in the wild.pdf",
+    "Paper pdfs/Sophisticated_collective_foraging_with_minimalist_.pdf",
+    "Paper pdfs/ICR_framework.pdf",
+    "Paper pdfs/GESwarm.pdf",
+    "Paper pdfs/Evolution of Self-Organized Task Specialization in Robot Swarms.pdf",
+    "Paper pdfs/Design Patterns for Decentralised Coordination.pdf",
+    "Paper pdfs/Collective decision with 100 Kilobots.pdf",
+    "Paper pdfs/An_Evolutionary_Perspective_on_SelfOrganized.pdf"
   ]
 }
