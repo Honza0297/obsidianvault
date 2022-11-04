@@ -8,5 +8,4 @@ of simple individual agent rules to generate sophisticated collective foraging b
 
 Pracuje s [[Kilobot]]y
 
-Přečten jen abstraktThe Information-Cost-Reward framework for  
-understanding robot swarm foraging
+Přečten jen abstrakt

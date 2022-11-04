@@ -1,4 +1,4 @@
-¨[[A Regional Necessity Based Multi-agent Target Search Strategy forPost-earthquake Rescue]]
+[[A Regional Necessity Based Multi-agent Target Search Strategy forPost-earthquake Rescue]]
 
 
 IDEA: 
