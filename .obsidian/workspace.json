@@ -11,11 +11,50 @@
             "id": "d232c1587d9780cc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Grammatical Evolution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35bddf5e7fedd781",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Paper pdfs/Grammatical evolution - new.pdf"
+              }
+            }
+          },
+          {
+            "id": "92ea51603b1f74a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mapping in GE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e6c5ed76c58344d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Position Independent Mapping piGE.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -44,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Klasické-mapování",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mapping in GE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mapping in GE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mapping in GE.md"
+              }
             }
           }
         ]
@@ -128,17 +172,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d232c1587d9780cc",
+  "active": "92ea51603b1f74a7",
   "lastOpenFiles": [
-    "Paper pdfs/GESwarm.pdf",
-    "GESwarm.md",
+    "Position Independent Mapping piGE.md",
+    "Mapping in GE.md",
     "Grammatical Evolution.md",
-    "IDEA Způsoby chování, jeho výměna a diferenciace.md",
-    "Evolution of Self-Organized Task Specialization in Robot Swarms.md",
+    "Attribute grammar.md",
+    "Paper pdfs/Grammatical evolution - new.pdf",
+    "GESwarm.md",
+    "Information exchange design patterns for robot swarm....md",
     "PAPER; Hlavní myšlenka a návrh.md",
-    "~TOREAD.md",
-    "Introduction to 20 Years of Grammatical Evolution.md",
-    "expression trees.md",
-    "Paper pdfs/Grammatical evolution - new.pdf"
+    "Handbook of GE.md",
+    "Paper pdfs/GESwarm.pdf"
   ]
 }
