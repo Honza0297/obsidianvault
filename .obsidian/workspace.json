@@ -35,9 +35,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mapping in GE.md",
+                "file": "Swarm Robotics; Past, present and future.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "97dcf6b4d5b65ec5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Paper pdfs/Swarm robotics: Past, Present and Future.pdf"
               }
             }
           },
@@ -52,9 +62,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2478a579ce9895a9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mapping in GE.md",
+                "file": "Paper pdfs/Swarm robotics: Past, Present and Future.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mapping in GE.md",
+                "file": "Paper pdfs/Swarm robotics: Past, Present and Future.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mapping in GE.md"
+                "file": "Paper pdfs/Swarm robotics: Past, Present and Future.pdf"
               }
             }
           }
@@ -172,17 +190,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "92ea51603b1f74a7",
+  "active": "97dcf6b4d5b65ec5",
   "lastOpenFiles": [
     "Position Independent Mapping piGE.md",
+    "Paper pdfs/Swarm robotics: Past, Present and Future.pdf",
+    "Swarm Robotics; Past, present and future.md",
     "Mapping in GE.md",
     "Grammatical Evolution.md",
     "Attribute grammar.md",
     "Paper pdfs/Grammatical evolution - new.pdf",
     "GESwarm.md",
     "Information exchange design patterns for robot swarm....md",
-    "PAPER; Hlavní myšlenka a návrh.md",
-    "Handbook of GE.md",
-    "Paper pdfs/GESwarm.pdf"
+    "PAPER; Hlavní myšlenka a návrh.md"
   ]
 }
