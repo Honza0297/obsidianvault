@@ -1,4 +1,4 @@
-Idea: 
+git@github.com:Honza0297/obsidianvault.gitIdea: 
 
 Mapování:
 IN: gramatika, řetězec kodonů = genom 

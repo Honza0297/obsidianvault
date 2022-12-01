@@ -8,71 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d232c1587d9780cc",
+            "id": "d319011b129731b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grammatical Evolution.md",
+                "file": "Attribute grammar evolution.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "35bddf5e7fedd781",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Paper pdfs/Grammatical evolution - new.pdf"
-              }
-            }
-          },
-          {
-            "id": "92ea51603b1f74a7",
+            "id": "eda3cd39e01f4c51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Swarm Robotics; Past, present and future.md",
+                "file": "Attribute grammar.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "97dcf6b4d5b65ec5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Paper pdfs/Swarm robotics: Past, Present and Future.pdf"
-              }
-            }
-          },
-          {
-            "id": "3e6c5ed76c58344d",
+            "id": "f3e2581c56247477",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Position Independent Mapping piGE.md",
+                "file": "Christiansenova gramatika.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "2478a579ce9895a9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper pdfs/Swarm robotics: Past, Present and Future.pdf",
+                "file": "Christiansenova gramatika.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paper pdfs/Swarm robotics: Past, Present and Future.pdf",
+                "file": "Christiansenova gramatika.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paper pdfs/Swarm robotics: Past, Present and Future.pdf"
+                "file": "Christiansenova gramatika.md"
               }
             }
           }
@@ -190,17 +162,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "97dcf6b4d5b65ec5",
+  "active": "f3e2581c56247477",
   "lastOpenFiles": [
-    "Position Independent Mapping piGE.md",
-    "Paper pdfs/Swarm robotics: Past, Present and Future.pdf",
-    "Swarm Robotics; Past, present and future.md",
-    "Mapping in GE.md",
-    "Grammatical Evolution.md",
     "Attribute grammar.md",
+    "Attribute grammar evolution.md",
+    "Christiansenova gramatika.md",
+    "Grammatical Evolution.md",
+    "Swarm Robotics; Past, present and future.md",
+    "Paper pdfs/Swarm robotics: Past, Present and Future.pdf",
+    "Position Independent Mapping piGE.md",
+    "Mapping in GE.md",
     "Paper pdfs/Grammatical evolution - new.pdf",
-    "GESwarm.md",
-    "Information exchange design patterns for robot swarm....md",
-    "PAPER; Hlavní myšlenka a návrh.md"
+    "GESwarm.md"
   ]
 }

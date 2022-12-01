@@ -1,4 +1,4 @@
-[[Swarm robotics: Past, Present and Future.pdf]]
+git@github.com:Honza0297/obsidianvault.git[[Swarm robotics: Past, Present and Future.pdf]]
 Autor: mj. Marco Dorigo
 
 Původně používaná [[Stigmergy]]. 
