@@ -8,26 +8,56 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d319011b129731b6",
+            "id": "d5763ad249bd9c8f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "2db54b3f213b64ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attribute grammar evolution.md",
+                "file": "Grammatical Evolution.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "eda3cd39e01f4c51",
+            "id": "f20847d7a6b7c5fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attribute grammar.md",
+                "file": "Mapping in GE.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "64a093f67c3a9df8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GEESE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57d4dfd868ffe85e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Paper pdfs/GEESE.pdf"
               }
             }
           },
@@ -35,11 +65,9 @@
             "id": "f3e2581c56247477",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Christiansenova gramatika.md",
-                "mode": "source",
-                "source": false
+                "file": "Paper pdfs/GESwarm.pdf"
               }
             }
           }
@@ -73,10 +101,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Klasické-mapování",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -90,8 +118,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Christiansenova gramatika.md",
+                "file": "Mapping in GE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Christiansenova gramatika.md",
+                "file": "Mapping in GE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Christiansenova gramatika.md"
+                "file": "Mapping in GE.md"
               }
             }
           }
@@ -162,17 +189,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f3e2581c56247477",
+  "active": "f20847d7a6b7c5fd",
   "lastOpenFiles": [
-    "Attribute grammar.md",
-    "Attribute grammar evolution.md",
-    "Christiansenova gramatika.md",
     "Grammatical Evolution.md",
-    "Swarm Robotics; Past, present and future.md",
-    "Paper pdfs/Swarm robotics: Past, Present and Future.pdf",
-    "Position Independent Mapping piGE.md",
-    "Mapping in GE.md",
-    "Paper pdfs/Grammatical evolution - new.pdf",
-    "GESwarm.md"
+    "GESwarm.md",
+    "Paper pdfs/GEESE.pdf",
+    "Paper pdfs/GESwarm.pdf",
+    "GEESE.md",
+    "2022-12-05.md",
+    "Attribute grammar evolution.md",
+    "Attribute grammar.md",
+    "Christiansenova gramatika.md",
+    "Swarm Robotics; Past, present and future.md"
   ]
 }

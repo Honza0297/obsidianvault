@@ -1,7 +1,5 @@
-git@github.com:Honza0297/obsidianvault.gitIdea: 
 
-Mapování:
-IN: gramatika, řetězec kodonů = genom 
+[[Mapping in GE]]
 
 Jednotlivá kandidátní řešení představují posloupnost pravidel, tak jak je aplikovat na startovní symbol S, aby z nich vypadl validní program.
 Kódování genomem = řetězcem, který se skládá z kodonů - každý kodon říká, které pravidlo ze seřazeného seznamu použitelných pravidel se aplikuje: hodnota kodonu mod & pravidel = index pravidla, které se použije.   

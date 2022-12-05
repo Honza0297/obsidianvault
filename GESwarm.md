@@ -25,7 +25,8 @@ S: start
 
 Jak funguje evoluce
 ---
-řetězec = list pravidel
--> např "(R -> P1 and P2; B1; A1),(R->;B2;A2)" - toto je jeden řetězec = kandidátní řešení
+řetězec = list pravidel. V té původní gramatice na obrázku ovšem chybí oddělovače, takže řešení by potom mohlo vypadat třeba takhle:
+P1P2B1B3B5A2P3B1A2A3A4P5B4A1A2
 
-Princip evoluce je už potom jasný. Máme kodon
+-> např "(R -> P1 and P2; B1; A1),(R->;B2;A2)" - toto je jeden řetězec = kandidátní řešení
+	-> Přesněji, výsledek by byl jen P1P2B1A1εB2A2 :) 
