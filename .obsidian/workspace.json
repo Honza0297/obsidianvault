@@ -28,7 +28,7 @@
             }
           },
           {
-            "id": "f20847d7a6b7c5fd",
+            "id": "93e56a0544143323",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,19 +40,93 @@
             }
           },
           {
-            "id": "64a093f67c3a9df8",
+            "id": "f20847d7a6b7c5fd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "c58dddcd86ebc41b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GEESE.md",
+                "file": "Designing Emergent Swarm Behaviors using Behavior Trees andGrammatical Evolution.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "57d4dfd868ffe85e",
+            "id": "ba4f1e928878bf7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Use of Predation to Shape EvolutionaryComputation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d79334ca8710c938",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Paper pdfs/Grammatical evolution - new.pdf"
+              }
+            }
+          },
+          {
+            "id": "71eaea63aeb645ce",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Paper pdfs/Swarm robotics: Past, Present and Future.pdf"
+              }
+            }
+          },
+          {
+            "id": "d8cef55c70fdbd14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GEESE pro foraging.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7117ae9e18a4e47c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Attribute grammar evolution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b023c153a6a5b4e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Paper pdfs/Attribute grammar evolution.pdf"
+              }
+            }
+          },
+          {
+            "id": "31f5765709e10a7c",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -62,17 +136,43 @@
             }
           },
           {
-            "id": "f3e2581c56247477",
+            "id": "b758bab98867a70c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Paper pdfs/GESwarm.pdf"
+                "file": "GESwarm vs GEESE in foraging.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52379b15d5e80b39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GESwarm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f223897c28752198",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GESwarm.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -138,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mapping in GE.md",
+                "file": "Paper pdfs/Attribute grammar evolution.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mapping in GE.md",
+                "file": "Paper pdfs/Attribute grammar evolution.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mapping in GE.md"
+                "file": "Paper pdfs/Attribute grammar evolution.pdf"
               }
             }
           }
@@ -189,17 +289,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f20847d7a6b7c5fd",
+  "active": "7b023c153a6a5b4e",
   "lastOpenFiles": [
-    "Grammatical Evolution.md",
-    "GESwarm.md",
-    "Paper pdfs/GEESE.pdf",
-    "Paper pdfs/GESwarm.pdf",
-    "GEESE.md",
-    "2022-12-05.md",
     "Attribute grammar evolution.md",
     "Attribute grammar.md",
-    "Christiansenova gramatika.md",
-    "Swarm Robotics; Past, present and future.md"
+    "Pasted image 20221206191435.png",
+    "GEESE pro foraging.md",
+    "Paper pdfs/GEESE.pdf",
+    "GESwarm.md",
+    "GESwarm vs GEESE in foraging.md",
+    "Use of Predation to Shape EvolutionaryComputation.md",
+    "Paper pdfs/Grammatical evolution - new.pdf",
+    "Paper pdfs/Swarm robotics: Past, Present and Future.pdf"
   ]
 }

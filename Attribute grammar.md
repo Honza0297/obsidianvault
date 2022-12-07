@@ -18,4 +18,4 @@ Atributy:
 	* Např: X -> Aa, A.len = X.len - 1 (a nemá atributy) 
 
 
-(1)ble. Ve zkratce: A je množina dvojic, třeba A = {(Ai1, As1), (Ai2, As2)}. Axn je potom sama o sobě množina samotných atributů
+(1) ble. Ve zkratce: A je množina dvojic, třeba A = {(Ai1, As1), (Ai2, As2)}. Axn je potom sama o sobě množina samotných atributů
