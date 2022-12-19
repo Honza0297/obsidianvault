@@ -7,7 +7,9 @@ Pravidla ve tvaru: R = P X B X A
 * ...a zároveň robot vykonává nějaké chování z B...
 * ... jsou vykonány všechny akce z A. Akcí je i přepnutí chování - teoreticky tedy akce může být přímo chováním, kde dané nové chování nahradí to staré. To je ale jen syntactic sugar. 
 
-![[Pasted image 20221030113641.png]]
+
+￼
+
 
 
 >The evolved individual behavior is a set

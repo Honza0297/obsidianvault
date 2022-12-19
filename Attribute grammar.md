@@ -19,3 +19,27 @@ Atributy:
 
 
 (1) ble. Ve zkratce: A je množina dvojic, třeba A = {(Ai1, As1), (Ai2, As2)}. Axn je potom sama o sobě množina samotných atributů
+
+Příklad: Gramatika, která generuje jazyk L = {w | \#a(w) = \#b(w)}
+N = 
+{
+	S,
+	V(int na, int nb) // na, nb jsou atributy
+	X{int na, int nb}
+}
+T = {a,b}
+start = S
+R = 
+{
+	S -> eps
+	S -> V {V.na == V.nb ? OK : not OK;} //not OK = error, string nedopadl
+	V1 -> XV2 {V1.na = X.na + V.na; 
+	                   V1.nb = X.nb + V.nb;}
+	X -> a {X.na = 1; 
+	            X.nb = 0;}
+	X -> b {X.na = 0;
+	             X.nb = 1;}
+	
+}
+
+
