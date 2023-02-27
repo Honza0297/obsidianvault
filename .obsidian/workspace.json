@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -161,6 +162,8 @@
   },
   "active": "26eb37e98d355742",
   "lastOpenFiles": [
+    "Paper pdfs/Solving_Knapsack_Problems_with_Attribute_Grammars.pdf",
+    "Paper pdfs/Extending Grammatical Evolution, knapsack.pdf",
     "PonyGE.md",
     "GESwarm.md",
     "Paper pdfs/Grammatical evolution.pdf",
