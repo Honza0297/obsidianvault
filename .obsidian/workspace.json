@@ -25,14 +25,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PI Grow.md",
+                "file": "GEESE pro foraging.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "d0ab1f7117db4a08",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Paper pdfs/GEESE.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:",
+                "query": "geese",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -99,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PI Grow.md",
+                "file": "Paper pdfs/GEESE.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PI Grow.md",
+                "file": "Paper pdfs/GEESE.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PI Grow.md"
+                "file": "Paper pdfs/GEESE.pdf"
               }
             }
           }
@@ -160,19 +170,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26eb37e98d355742",
+  "active": "d0ab1f7117db4a08",
   "lastOpenFiles": [
+    "Paper pdfs/20230308/1-s2.0-S2666222120300058-main.pdf",
+    "Paper pdfs/20230308/1-s2.0-S0743731518305987-main-1.pdf",
+    "Paper pdfs/20230308/1-s2.0-S0743731518305987-main.pdf",
+    "Paper pdfs/20230308/1-s2.0-S0925231215010486-main.pdf",
+    "Paper pdfs/20230308/1-s2.0-S092188901300208X-main.pdf",
+    "Paper pdfs/20230308/1-s2.0-S187775031931172X-main.pdf",
+    "GEESE pro foraging.md",
+    "Paper pdfs/GEESE.pdf",
+    "GEESE.md",
+    "PI Grow.md",
     "Paper pdfs/Solving_Knapsack_Problems_with_Attribute_Grammars.pdf",
     "Paper pdfs/Extending Grammatical Evolution, knapsack.pdf",
     "PonyGE.md",
     "GESwarm.md",
     "Paper pdfs/Grammatical evolution.pdf",
     "Grammatical Evolution.md",
-    "GEESE pro foraging.md",
-    "GEESE.md",
-    "Paper pdfs/GEESE.pdf",
-    "Paper pdfs/GESwarm.pdf",
-    "Paper pdfs/Grammatical evolution - new.pdf",
-    "Paper pdfs/Grammar_based_CooperativeLearning.pdf"
+    "Paper pdfs/GESwarm.pdf"
   ]
 }
