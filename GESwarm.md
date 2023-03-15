@@ -1,4 +1,4 @@
-[[GESwarm.pdf]]
+Ummmm 2004? I was 10 years out of school by then. So it would be "It's 2004, you just got back home form work and fired up Underground 2."[[GESwarm.pdf]]
 Paper o [[Grammatical Evolution]] pro swarmy z roku 2013 - docela starý :(
 
 Na rodzíl od neuronek lze takto vytvořená chování analyzovat, reverznout atp...

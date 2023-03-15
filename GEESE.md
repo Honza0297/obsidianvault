@@ -1,5 +1,5 @@
-[[GEESE.Ummmm 2004? I was 10 years out of school by then. So it would be "It's 2004, you just got back home form work and fired up Underground 2."pdf]]
-
+[[GEESE.pdf]]
+[[Články, které citovaly GEESE]]
 >We know of no distributed algorithm for GE in swarms
 
 > Loosely inspired by [[GESwarm]]

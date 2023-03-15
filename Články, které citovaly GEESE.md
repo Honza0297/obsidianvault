@@ -1,0 +1,7 @@
+[[Designing Emergent Swarm Behaviors using Behavior Trees and.pdf]]
+* [[Designing Emergent Swarm Behaviors using Behavior Trees and Grammatical Evolution]]
+[[Learning Swarm Behaviors using Grammatical Evolution and Behavior Trees.pdf]]
+* [[Learning Swarm Behaviors using Grammatical Evolution and Behavior Trees]]
+[[Emergence of Collective Behaviors.pdf]]
+[[EFFICIENTLY EVOLVING SWARM BEHAVIORS.pdf]]
+[[Learning Resilient Swarm Behaviors.pdf]]

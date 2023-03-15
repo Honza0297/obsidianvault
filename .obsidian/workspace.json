@@ -8,41 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4e5c758e8c134feb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PonyGE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26eb37e98d355742",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GEESE pro foraging.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d0ab1f7117db4a08",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Paper pdfs/GEESE.pdf"
+                "file": "Články, které citovaly GEESE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33bc0304bfc91026",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning Swarm Behaviors using Grammatical Evolution and Behavior Trees.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "182a2ca35aee9cb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Designing Emergent Swarm Behaviors using Behavior Trees and Grammatical Evolution.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper pdfs/GEESE.pdf",
+                "file": "Learning Swarm Behaviors using Grammatical Evolution and Behavior Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paper pdfs/GEESE.pdf",
+                "file": "Learning Swarm Behaviors using Grammatical Evolution and Behavior Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paper pdfs/GEESE.pdf"
+                "file": "Learning Swarm Behaviors using Grammatical Evolution and Behavior Trees.md"
               }
             }
           }
@@ -170,24 +172,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0ab1f7117db4a08",
+  "active": "33bc0304bfc91026",
   "lastOpenFiles": [
+    "Designing Emergent Swarm Behaviors using Behavior Trees and Grammatical Evolution.md",
+    "Learning Swarm Behaviors using Grammatical Evolution and Behavior Trees.md",
+    "Články, které citovaly GEESE.md",
+    "GEESE.md",
+    "Le.md",
+    "Pasted image 20230315130128.png",
+    "Paper pdfs/Learning Resilient Swarm Behaviors.pdf",
+    "EFFICIENTLY EVOLVING SWARM BEHAVIORS.md",
+    "GESwarm.md",
+    "Paper pdfs/Emergence of Collective Behaviors.pdf",
+    "Paper pdfs/EFFICIENTLY EVOLVING SWARM BEHAVIORS.pdf",
+    "Paper pdfs/Learning Swarm Behaviors using Grammatical Evolution and Behavior Trees.pdf",
+    "Paper pdfs/Designing Emergent Swarm Behaviors using Behavior Trees and\nGrammatical Evolution",
+    "GEESE..pdf.md",
+    "GEESE.Ummmm 2004? I was 10 years out of school by then. So it would be \"It's 2004, you just got back home form work and fired up Underground 2.\"pdf.md",
+    "Paper pdfs/GEESE.pdf",
     "Paper pdfs/20230308/1-s2.0-S2666222120300058-main.pdf",
     "Paper pdfs/20230308/1-s2.0-S0743731518305987-main-1.pdf",
     "Paper pdfs/20230308/1-s2.0-S0743731518305987-main.pdf",
     "Paper pdfs/20230308/1-s2.0-S0925231215010486-main.pdf",
-    "Paper pdfs/20230308/1-s2.0-S092188901300208X-main.pdf",
-    "Paper pdfs/20230308/1-s2.0-S187775031931172X-main.pdf",
     "GEESE pro foraging.md",
-    "Paper pdfs/GEESE.pdf",
-    "GEESE.md",
     "PI Grow.md",
-    "Paper pdfs/Solving_Knapsack_Problems_with_Attribute_Grammars.pdf",
-    "Paper pdfs/Extending Grammatical Evolution, knapsack.pdf",
     "PonyGE.md",
-    "GESwarm.md",
-    "Paper pdfs/Grammatical evolution.pdf",
-    "Grammatical Evolution.md",
-    "Paper pdfs/GESwarm.pdf"
+    "Grammatical Evolution.md"
   ]
 }
