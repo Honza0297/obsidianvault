@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d0ab1f7117db4a08",
+            "id": "077c9c9572873447",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,24 +20,70 @@
             }
           },
           {
-            "id": "33bc0304bfc91026",
+            "id": "b1c449ee382c6cee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Swarm Behaviors using Grammatical Evolution and Behavior Trees.md",
+                "file": "Learning Resilient Swarm Behaviors.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "182a2ca35aee9cb1",
+            "id": "b6594af07e02b999",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Designing Emergent Swarm Behaviors using Behavior Trees and Grammatical Evolution.md",
+                "file": "Learning Resilient Swarm Behaviors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1de9768b5c7840a0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Paper pdfs/Emergence of Collective Behaviors.pdf"
+              }
+            }
+          },
+          {
+            "id": "d5838fc7b0a641c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EFFICIENTLY EVOLVING SWARM BEHAVIORS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80475d512dc1b164",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EFFICIENTLY EVOLVING SWARM BEHAVIORS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2685ed52ff1b076c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Emergence of Collective Behaviors.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "14f34b88ec4ebac8",
@@ -111,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning Swarm Behaviors using Grammatical Evolution and Behavior Trees.md",
+                "file": "Learning Resilient Swarm Behaviors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning Swarm Behaviors using Grammatical Evolution and Behavior Trees.md",
+                "file": "Learning Resilient Swarm Behaviors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning Swarm Behaviors using Grammatical Evolution and Behavior Trees.md"
+                "file": "Learning Resilient Swarm Behaviors.md"
               }
             }
           }
@@ -172,19 +219,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33bc0304bfc91026",
+  "active": "b1c449ee382c6cee",
   "lastOpenFiles": [
-    "Designing Emergent Swarm Behaviors using Behavior Trees and Grammatical Evolution.md",
-    "Learning Swarm Behaviors using Grammatical Evolution and Behavior Trees.md",
     "Články, které citovaly GEESE.md",
+    "EFFICIENTLY EVOLVING SWARM BEHAVIORS.md",
+    "Learning Resilient Swarm Behaviors.md",
+    "Designing Emergent Swarm Behaviors using Behavior Trees and Grammatical Evolution.md",
     "GEESE.md",
+    "Designing Emergent Swarm Behaviors using Behavior Trees andGrammatical Evolution.md",
+    "Paper pdfs/Emergence of Collective Behaviors.pdf",
+    "Paper pdfs/Designing Emergent Swarm Behaviors using Behavior Trees and.pdf",
+    "Paper pdfs/EFFICIENTLY EVOLVING SWARM BEHAVIORS.pdf",
+    "Emergence of Collective Behaviors.md",
+    "Learning Swarm Behaviors using Grammatical Evolution and Behavior Trees.md",
+    "Pasted image 20230322123340.png",
+    "Pasted image 20230322122547.png",
+    "Pasted image 20230322105408.png",
     "Le.md",
     "Pasted image 20230315130128.png",
     "Paper pdfs/Learning Resilient Swarm Behaviors.pdf",
-    "EFFICIENTLY EVOLVING SWARM BEHAVIORS.md",
     "GESwarm.md",
-    "Paper pdfs/Emergence of Collective Behaviors.pdf",
-    "Paper pdfs/EFFICIENTLY EVOLVING SWARM BEHAVIORS.pdf",
     "Paper pdfs/Learning Swarm Behaviors using Grammatical Evolution and Behavior Trees.pdf",
     "Paper pdfs/Designing Emergent Swarm Behaviors using Behavior Trees and\nGrammatical Evolution",
     "GEESE..pdf.md",
@@ -193,7 +247,6 @@
     "Paper pdfs/20230308/1-s2.0-S2666222120300058-main.pdf",
     "Paper pdfs/20230308/1-s2.0-S0743731518305987-main-1.pdf",
     "Paper pdfs/20230308/1-s2.0-S0743731518305987-main.pdf",
-    "Paper pdfs/20230308/1-s2.0-S0925231215010486-main.pdf",
     "GEESE pro foraging.md",
     "PI Grow.md",
     "PonyGE.md",
