@@ -1,5 +1,5 @@
 [[GEESE.pdf]]
-[[Články, které citovaly GEESE]]
+[[Články, které citoval GEESE]]
 >We know of no distributed algorithm for GE in swarms
 
 > Loosely inspired by [[GESwarm]]

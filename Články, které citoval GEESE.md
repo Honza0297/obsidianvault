@@ -11,7 +11,8 @@ colonies.
 * [[Learning Swarm Behaviors using Grammatical Evolution and Behavior Trees]]
 Zdroje:
 * [[evolving behavior trees for swarm robotics.pdf]] je tu i to, co to je PPA
-* [[improving modularity of auv systems.pdf]]
+	* [[evolving behavior trees for swarm robotics]]
+* [[improving modularity of auv systems.pdf]] skip, nevím, proč jsem to chtěl
 * 
 
 [[Emergence of Collective Behaviors.pdf]]

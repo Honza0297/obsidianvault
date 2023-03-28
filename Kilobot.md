@@ -11,3 +11,8 @@ environment for the Kilobot robot,” Swarm Intell.,
 vol. 12, no. 3, pp. 245—266, Sep. 2018
 Mergeable nervous  
 systems for robots
+
+
+Jak pomocí monochromatického senzoru určovat různé oblasti? 
+* časovou modulací: různé oblasti budou mít různé patterny blikání
+* ignorovat monochorm senzor a prostě vzít kilobota, který bude jen řvát "jsem jídlo" :) 
