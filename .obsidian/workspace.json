@@ -55,9 +55,21 @@
             "id": "2d3c0d97532255b3",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning Resilient Swarm Behaviors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b06ee08a933e336",
+            "type": "leaf",
+            "state": {
               "type": "pdf",
               "state": {
-                "file": "Paper pdfs/Behavior trees in robotics and IA.pdf"
+                "file": "Paper pdfs/Learning Resilient Swarm Behaviors.pdf"
               }
             }
           },
@@ -110,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -139,7 +151,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lear",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -156,7 +168,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper pdfs/Behavior trees in robotics and IA.pdf",
+                "file": "~TOREAD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paper pdfs/Behavior trees in robotics and IA.pdf",
+                "file": "~TOREAD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paper pdfs/Behavior trees in robotics and IA.pdf"
+                "file": "~TOREAD.md"
               }
             }
           }
@@ -237,8 +250,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d3c0d97532255b3",
+  "active": "4ecf38d9315ae3eb",
   "lastOpenFiles": [
+    "Paper pdfs/HeRo 2.0: a low-cost robot for swarm robotics research.pdf",
+    "Paper pdfs/Swarm robotics: a review from the swarm engineering.pdf",
+    "Paper pdfs/Swarm Robotic Behaviors and Current Applications.pdf",
+    "Paper pdfs/Learning Resilient Swarm Behaviors.pdf",
+    "Learning Resilient Swarm Behaviors.md",
+    "Learning Swarm Behaviors using Grammatical Evolution and Behavior Trees.md",
+    "Paper pdfs/Behavior trees in robotics and IA.pdf",
     "Behavioral Trees.md",
     "evolving behavior trees for swarm robotics.md",
     "~TOREAD.md",
@@ -255,14 +275,8 @@
     "EFFICIENTLY EVOLVING SWARM BEHAVIORS.md",
     "Evolution of Self-Organized Task Specialization in Robot Swarms.md",
     "Paper pdfs/Recent Horizontal Transfer.pdf",
-    "Learning Swarm Behaviors using Grammatical Evolution and Behavior Trees.md",
     "Paper pdfs/improving modularity of auv systems.pdf",
     "Paper pdfs/evolving behavior trees for swarm robotics.pdf",
-    "Paper pdfs/The evolutionary origins of modularity.pdf",
-    "Learning Resilient Swarm Behaviors.md",
-    "Paper pdfs/automatic design of robot swarms.pdf",
-    "Paper pdfs/Swarm robotics: From sources of inspiration to domains of application..pdf",
-    "Paper pdfs/Swarm robotics: a review from the swarm engineering perspective.pdf",
     "Pasted image 20230327104423.png",
     "Kilobot.md",
     "Designing Emergent Swarm Behaviors using Behavior Trees and Grammatical Evolution.md",

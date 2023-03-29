@@ -1,3 +1,14 @@
+20230329
+* Hero 2.0: co to je, kde a jak sehnat díly...
+	* https://www.wevolver.com/article/hero-20-an-ultra-low-cost-3d-printed-robotics-platform-could-open-swarm-robotics-experimentation-up-to-all
+	* [[HeRo 2.0: a low-cost robot for swarm robotics research.pdf]]
+* Revies, abych tak nějak pochopil, co mam psat - a abych mel odraozový mustek
+[[A review of swarm robotics tasks.pdf]]
+[[Swarm Robotic Behaviors and Current Applications.pdf]]
+[[Swarm robotics: a review from the swarm engineering perspective.pdf]]
+
+
+
 20230327
 * [[Behavior trees in robotics and IA.pdf]]
 	* krátká knížka o BT pro robotiku a ai. potřebuju zjistit detaily o BT
