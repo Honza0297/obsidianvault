@@ -115,7 +115,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "~TOREAD.md",
+                "file": "Kilobot.md",
                 "mode": "source",
                 "source": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lear",
+                "query": "kilobot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "~TOREAD.md",
+                "file": "Kilobot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "~TOREAD.md",
+                "file": "Kilobot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "~TOREAD.md"
+                "file": "Kilobot.md"
               }
             }
           }
@@ -252,6 +252,10 @@
   },
   "active": "4ecf38d9315ae3eb",
   "lastOpenFiles": [
+    "Paper pdfs/n Overview of Swarm Robotics: Swarm Intelligence.pdf",
+    "Paper pdfs/Swarm Robotics: A Perspective on the Latest Reviewed.pdf",
+    "Paper pdfs/Kilobot: A Low Cost Scalable Robot System for Collective Behaviors.pdf",
+    "~TOREAD.md",
     "Paper pdfs/HeRo 2.0: a low-cost robot for swarm robotics research.pdf",
     "Paper pdfs/Swarm robotics: a review from the swarm engineering.pdf",
     "Paper pdfs/Swarm Robotic Behaviors and Current Applications.pdf",
@@ -261,7 +265,6 @@
     "Paper pdfs/Behavior trees in robotics and IA.pdf",
     "Behavioral Trees.md",
     "evolving behavior trees for swarm robotics.md",
-    "~TOREAD.md",
     "Paper pdfs/Evolving Behaviour Trees for the Mario AI.pdf",
     "Pasted image 20230327135335.png",
     "Pasted image 20230327135132.png",
@@ -274,9 +277,6 @@
     "Paper pdfs/EFFICIENTLY EVOLVING SWARM BEHAVIORS.pdf",
     "EFFICIENTLY EVOLVING SWARM BEHAVIORS.md",
     "Evolution of Self-Organized Task Specialization in Robot Swarms.md",
-    "Paper pdfs/Recent Horizontal Transfer.pdf",
-    "Paper pdfs/improving modularity of auv systems.pdf",
-    "Paper pdfs/evolving behavior trees for swarm robotics.pdf",
     "Pasted image 20230327104423.png",
     "Kilobot.md",
     "Designing Emergent Swarm Behaviors using Behavior Trees and Grammatical Evolution.md",

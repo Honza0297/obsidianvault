@@ -1,5 +1,5 @@
 Malincí robůtci pro swarm robotiku
-
+[[Kilobot: A Low Cost Scalable Robot System for Collective Behaviors.pdf]]
 **Tooly:**
 
 59] A. Reina, A. J. Cope, E. Nikolaidis,  
