@@ -26,3 +26,6 @@ precondition, action (PPA) structure
 
 ==ZDROJ 69: modularita v gramatikách - přečíst==
 zdroj 66: py_trees pro tvoprbu behav trees?
+
+> Thus, BeTr-GEESE is modular in the sense that subtask-speciﬁc trees receive
+rapid feedback, which works well with divisible and additive collective tasks.
