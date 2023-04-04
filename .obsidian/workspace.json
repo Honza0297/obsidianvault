@@ -11,8 +11,12 @@
             "id": "7cd51304e0bee77e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "~TOREAD.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "~TOREAD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "~TOREAD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "~TOREAD.md"
+              }
             }
           }
         ]
@@ -140,17 +148,18 @@
   },
   "active": "7cd51304e0bee77e",
   "lastOpenFiles": [
+    "Paper pdfs/Swarm robotics: Past, Present and Future.pdf",
+    "Paper pdfs/Reviews copy/Swarm robotics: Past, Present and Future.pdf",
+    "~TOREAD.md",
+    "Paper pdfs/Reviews copy/A review of swarm robotics tasks.pdf",
+    "Paper pdfs/Reviews copy/Swarm Robotic Behaviors and Current Applications.pdf",
+    "Paper pdfs/Reviews copy/A Systematic Review of Swarm Robots.pdf",
+    "Paper pdfs/Reviews copy/n Overview of Swarm Robotics: Swarm Intelligence.pdf",
+    "Paper pdfs/Reviews copy/Swarm Robotics: A Perspective on the Latest Reviewed.pdf",
+    "Paper pdfs/Reviews copy/TOWARDS PRACTICAL APPLICATION OF SWARM ROBOTICS:.pdf",
+    "Paper pdfs/Reviews copy",
     "Paper pdfs/The e-puck, a Robot Designed for Education in Engineering.pdf",
     "Paper pdfs/The pi-puck ecosystem.pdf",
-    "GEESE.Ummmm 2004? I was 10 years out of school by then. So it would be \"It's 2004, you just got back home form work and fired up Underground 2.\"pdf.md",
-    "Paper pdfs/Analysis, Design and Control of a Planar Micro-robot\nDriven by Two Centripetal-Force Actuators.pdf",
-    "Paper pdfs/openkilo.pdf",
-    "Paper pdfs/HeRo: An Open Platform for Robotics Research and Education_files/stamp.html",
-    "Paper pdfs/HeRo: An Open Platform for Robotics Research and Education.html",
-    "Paper pdfs/HeRo: An Open Platform for Robotics Research and Education_files/fingerprint2.js",
-    "Paper pdfs/HeRo: An Open Platform for Robotics Research and Education_files/tealiumAnalytics.js",
-    "Paper pdfs/HeRo: An Open Platform for Robotics Research and Education_files/fingerprint.js",
-    "Paper pdfs/HeRo: An Open Platform for Robotics Research and Education_files/tealiumTagsData.js",
-    "Paper pdfs/HeRo: An Open Platform for Robotics Research and Education_files/HeRo_An_open_platform_for_robotics_research_and_education.pdf"
+    "GEESE.Ummmm 2004? I was 10 years out of school by then. So it would be \"It's 2004, you just got back home form work and fired up Underground 2.\"pdf.md"
   ]
 }
